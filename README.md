@@ -34,8 +34,7 @@ It represents the idea of transparency and trust in Web3 — letting users depos
 🌍 Deployed Smart Contract
 
 Contract Address: 0x5F820543F71f8ea1F6fD1ABe2C5a48A294Ae8aD2
-View on Explorer: https://sepolia.etherscan.io/address/0x5F820543F71f8ea1F6fD1ABe2C5a48A294Ae8aD2
-
+View on Explorer: https://celo-sepolia.blockscout.com/address/0x5F820543F71f8ea1F6fD1ABe2C5a48A294Ae8aD2
 ## ✨ Features  
 
 ✅ **On-Chain Transparency** – All transactions are stored and visible publicly.  
