@@ -1,5 +1,5 @@
-# VIBE-CODE
-# 💫 VIBE CODE  
+# Vault3
+# 💫 Vault3
 
 ### A Simple On-Chain Balance & Transaction Tracker  
 
